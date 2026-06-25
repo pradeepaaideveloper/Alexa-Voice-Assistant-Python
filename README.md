@@ -70,5 +70,9 @@ Alexa-Voice-Assistant/
 ## Author
 
 Pradeepa K
-
 Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning
+
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/kpradeepa
+- GitHub: https://github.com/pradeepaaideveloper
